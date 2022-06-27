@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(247, 250, 218);
+}
+.main-name-section{
+    background: white;
+}
+.logo-name{
+    font-size: 60px;
+    color: rgb(196, 4, 4);
+    font-weight: 900;
+    
+}
+.navbar{
+    background: rgb(240, 104, 104);
+    height: 70px;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.nav-item{
+    margin-right: 10px;
+}
+/* donor */
+.donor-form{
+    background:  rgb(247, 250, 218);
+    padding-left:18rem;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+    padding-right: 4rem;
+    border-radius: 32px;
+box-shadow:  8px 8px 22px rgb(209, 209, 187),
+             -8px -8px 22px rgb(243, 245, 232);
+}
+.form-control-lg{
+    border-style: none;
+    border-radius: 2rem;
+}
+.one{
+    margin-right:7rem;
+}
+.two{
+    margin-right: 4rem;
+}
+.three{
+    margin-right:8rem;
+}
+.four{
+    margin-right: 4rem;
+}
+.five{
+    margin-right:6rem;
+}
+.six{
+    margin-right: 2.3rem;
+}
+.seven{
+    margin-right:4.3rem;
+}
+.eight{
+    margin-right: 6rem;
+}
+.submit-button,
+.back{
+    margin-left: 15rem;
+}
+
+.aid{
+    margin-right:5.3rem;
+}
+.nm{
+    margin-right: 7.8rem;
+}
+.b-g{
+    margin-right:5rem;
+}
+.age{
+    margin-right: 8.7rem;
+}
+.add{
+    margin-right:6.9rem;
+}
+.cn{
+    margin-right: 3.3rem;
+}
+
+.loginBox
+{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 467px;
+	height: 307px;
+    padding: 86px 40px;
+    border-radius: 2rem;
+	background: rgba(127, 207, 207, 0.801);
+}
+
